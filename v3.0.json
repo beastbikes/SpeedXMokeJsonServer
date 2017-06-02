@@ -1,0 +1,397 @@
+{
+  "training_lesson_info": {
+    "code": 0,
+    "message": "",
+    "result": {
+      "id": "1",
+      "name": "60分钟耐力训练",
+      "en_name": "60 minutes lesson",
+      "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+      "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+      "course_time": 3600,
+      "tss": 40,
+      "watts_if": 15,
+      "sport_route_id": "",
+      "category": 1,
+      "programs": [
+        {
+          "name": "热身",
+          "en_name": "",
+          "program_time": 900,
+          "cycle_count": 1,
+          "stages": [
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 300
+            },
+            {
+              "power_high": 500,
+              "power_low": 300,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 600
+            }
+          ]
+        },
+        {
+          "name": "高频率",
+          "en_name": "",
+          "program_time": 900,
+          "cycle_count": 6,
+          "stages": [
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 300
+            },
+            {
+              "power_high": 400,
+              "power_low": 300,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 600
+            }
+          ]
+        },
+        {
+          "name": "高频率",
+          "en_name": "",
+          "program_time": 900,
+          "cycle_count": 2,
+          "stages": [
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 300
+            },
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 600
+            }
+          ]
+        },
+        {
+          "name": "放松",
+          "en_name": "",
+          "program_time": 900,
+          "cycle_count": 2,
+          "stages": [
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 300
+            },
+            {
+              "power_high": 300,
+              "power_low": 100,
+              "cadence_high": 90,
+              "cadence_low": 70,
+              "stage_time": 600
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "training_index": {
+    "code": 0,
+    "message": "",
+    "result": {
+      "long_courses": [
+        {
+          "id": 1,
+          "name": "两周骑行训练",
+          "en_name": "Two weeks cycling training",
+          "description": "迈出第一步（两周计划）",
+          "en_description": "First step (two weeks plan)",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png"
+        },
+        {
+          "id": 2,
+          "name": "四周骑行训练",
+          "en_name": "Four weeks cycling training",
+          "description": "成为更出色的骑行者（四周计划）",
+          "en_description": "First step (two weeks plan)",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png"
+        },
+        {
+          "id": 3,
+          "name": "八周骑行训练",
+          "en_name": "Eight weeks cycling training",
+          "description": "以最佳状态达成比赛目标（八周计划）",
+          "en_description": "First step (two weeks plan)",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png"
+        }
+      ],
+      "courses": [
+        {
+          "id": 1,
+          "name": "20分钟主动恢复",
+          "en_name": "20 minutes.",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+          "course_time": 1200,
+          "tss": 8,
+          "watts_if": 0.4
+        },
+        {
+          "id": 2,
+          "name": "30分钟主动恢复",
+          "en_name": "30 minutes.",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+          "course_time": 1800,
+          "tss": 15,
+          "watts_if": 0.48
+        },
+        {
+          "id": 3,
+          "name": "40分钟主动恢复",
+          "en_name": "40 minutes.",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+          "course_time": 2400,
+          "tss": 20,
+          "watts_if": 0.5
+        },
+        {
+          "id": 1,
+          "name": "50分钟主动恢复",
+          "en_name": "50 minutes.",
+          "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+          "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+          "course_time": 3000,
+          "tss": 25,
+          "watts_if": 0.62
+        }
+      ]
+    }
+  },
+  "calendar": {
+    "code": 0,
+    "message": "",
+    "result": {
+      "1": {
+        "is_training": true,
+        "distance": 11100
+      },
+      "2": {
+        "is_training": true,
+        "distance": 89000
+      },
+      "3": {
+        "is_training": false,
+        "distance": 0
+      },
+      "4": {
+        "is_training": false,
+        "distance": 0
+      },
+      "5": {
+        "is_training": false,
+        "distance": 0
+      },
+      "6": {
+        "is_training": false,
+        "distance": 0
+      },
+      "7": {
+        "is_training": false,
+        "distance": 0
+      },
+      "8": {
+        "is_training": true,
+        "distance": 140000
+      },
+      "9": {
+        "is_training": false,
+        "distance": 0
+      },
+      "10": {
+        "is_training": false,
+        "distance": 0
+      },
+      "11": {
+        "is_training": true,
+        "distance": 5000
+      },
+      "12": {
+        "is_training": false,
+        "distance": 0
+      },
+      "13": {
+        "is_training": false,
+        "distance": 0
+      },
+      "14": {
+        "is_training": false,
+        "distance": 0
+      },
+      "15": {
+        "is_training": false,
+        "distance": 0
+      },
+      "16": {
+        "is_training": false,
+        "distance": 0
+      },
+      "17": {
+        "is_training": true,
+        "distance": 5600
+      },
+      "18": {
+        "is_training": false,
+        "distance": 0
+      },
+      "19": {
+        "is_training": false,
+        "distance": 0
+      },
+      "20": {
+        "is_training": false,
+        "distance": 0
+      },
+      "21": {
+        "is_training": false,
+        "distance": 0
+      },
+      "22": {
+        "is_training": false,
+        "distance": 0
+      },
+      "23": {
+        "is_training": false,
+        "distance": 0
+      },
+      "24": {
+        "is_training": false,
+        "distance": 0
+      },
+      "25": {
+        "is_training": false,
+        "distance": 0
+      },
+      "26": {
+        "is_training": false,
+        "distance": 0
+      },
+      "27": {
+        "is_training": false,
+        "distance": 0
+      },
+      "28": {
+        "is_training": false,
+        "distance": 0
+      },
+      "29": {
+        "is_training": false,
+        "distance": 0
+      },
+      "30": {
+        "is_training": true,
+        "distance": 500000
+      }
+    }
+  },
+  "trainings": {
+    "course_type": "2",
+    "cycle": "1",
+    "frequency": "1",
+    "single_time_type": "1"
+  },
+  "long_term_training": {
+    "code": 0,
+    "message": "",
+    "result": {
+      "courses": {
+        "1": {
+          "3": {
+            "name": "短期冲刺爆发",
+            "en_name": "",
+            "course_id": 1,
+            "course_time": 3600,
+            "tts": 200,
+            "watts_if": 109,
+            "sport_route_id": "",
+            "category": 2
+          },
+          "4": {
+            "name": "长期冲刺爆发",
+            "en_name": "",
+            "course_id": 2,
+            "course_time": 3600,
+            "tts": 200,
+            "watts_if": 109,
+            "sport_route_id": "333333",
+            "category": 2
+          },
+          "5": {
+            "name": "40分钟踏频耐力骑行",
+            "en_name": "",
+            "course_id": 3,
+            "course_time": 2400,
+            "tts": 188,
+            "watts_if": 46,
+            "sport_route_id": "33333",
+            "category": 3
+          }
+        },
+        "2": {
+          "2": {
+            "name": "短期冲刺爆发_1",
+            "en_name": "",
+            "course_id": 4,
+            "course_time": 720,
+            "tts": 10,
+            "watts_if": 22,
+            "sport_route_id": "",
+            "category": 4
+          },
+          "4": {
+            "name": "长期冲刺爆发_1",
+            "en_name": "",
+            "course_id": 5,
+            "course_time": 1800,
+            "tts": 20,
+            "watts_if": 82,
+            "sport_route_id": "",
+            "category": 1
+          },
+          "6": {
+            "name": "50分钟踏频耐力骑行",
+            "en_name": "",
+            "course_id": 6,
+            "course_time": 3000,
+            "tts": 175,
+            "watts_if": 64,
+            "sport_route_id": "",
+            "category": 2
+          }
+        }
+      },
+      "name": "两周骑行训练",
+      "en_name": "Two weeks training",
+      "description": "迈出第一步（两周计划）",
+      "en_description": "",
+      "picture": "http://opbfhp80q.bkt.clouddn.com/log-images/training_cover.png",
+      "bg_picture": "http://opbfhp80q.bkt.clouddn.com/log-images/DSC_7444.png",
+      "training_id": 1,
+      "created": "2017-05-23T00:16:00.000000+00:00"
+    }
+  }
+}
