@@ -1,0 +1,4 @@
+{
+    "/routes/calendar" : "/calendar",
+    "/trainings/:id" : "/long_term_training"
+}
